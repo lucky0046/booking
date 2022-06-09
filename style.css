@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-img {
+    background-image: url('https://img.freepik.com/free-photo/living-room-interior-wall-mockup-warm-tones-with-leather-sofa-which-is-kitchen-3d-rendering_41470-3753.jpg?t=st=1654228519~exp=1654229119~hmac=6e877e491783e22bdfb74c629c1af5c8b347613c65c87e29e7734ada80969776&w=996');
+    height: 100vh;
+    background-size: cover;
+    opacity: 1;
+}
+
+.head {
+    color: white;
+    font-family: Georgia;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 45px;
+    padding-left: 50px;
+    text-indent: 20px;
+    border: 200px;
+}
+
+#logo {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+
+.ing {
+    padding-left: 0px;
+}
+
+.fat {
+
+    padding-left: 300px;
+    padding-top: 40px;
+    border-radius: 0px;
+    background-color: white;
+}
+
+.con {
+    padding-left: 400px;
+    padding-bottom: 30px;
+    border-width: 0px;
+    background-color: white;
+    margin: 0px;
+}
+
+.jer {
+    border-radius: 8px;
+    background-color: white;
+    margin-right: 18px;
+    border-width: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.wer {
+    padding-left: 700px;
+    margin-right: px;
+}
+
+
+
+
+
+
+
+.tom {
+    display: inline-block;
+    padding: 0px;
+    margin-left: -4px;
+}
+
+.mat {
+    font-size: 12px;
+}
+
+.rom {
+    padding-left: 50px;
+}
+
+.sat {
+    color: white;
+    background-color: #32a0a8;
+    border: 0px;
+    padding: 12px;
+    margin-right: 20px;
+
+}
